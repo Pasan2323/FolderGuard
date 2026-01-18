@@ -1,0 +1,19 @@
+{
+  "project": "FolderGuard",
+  "folder": "C:\\Users\\ABC\\Documents\\FolderGuard\\sample_data",
+  "created_at": "2026-01-18T10:23:43.509110Z",
+  "files": {
+    "credentials.txt": {
+      "sha256": "a5ef482c2ff3dc7e3fc6bc2be0f529edafc2efbe1b589472bb572d46dd141ff6",
+      "size_bytes": 46
+    },
+    "invoice1.txt": {
+      "sha256": "a95ff5bcbf3ff38ffb39375906556f24ce7e5c899445b0ea2a359292cf349c6f",
+      "size_bytes": 25
+    },
+    "notes.txt": {
+      "sha256": "cd28147b6fc111bdb9acb83fa78a08ec30fd0fe3ef9c46c89d03062888a20bfe",
+      "size_bytes": 267
+    }
+  }
+}
